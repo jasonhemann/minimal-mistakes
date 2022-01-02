@@ -21,6 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jason Hemann"
 <<<<<<< HEAD
+<<<<<<< HEAD
 description              : # ""
 url                      : "http://jasonhemann.github.com/"
 baseurl                  : "" # "/jhemann/test-site"
@@ -29,6 +30,8 @@ teaser                   : "/assets/images/500x300.png"
 logo                     : "" # "/assets/images/88x88.png"
 masthead_title           : " "
 =======
+=======
+>>>>>>> f20f1fba (Deleting starting files and doing a better nicer site start-up)
 description              : "An amazing website."
 url                      : "http://jasonhemann.github.com/" # "http://pages.github.ccs.neu.edu"
 baseurl                  : "" # "/jhemann/test-site"
