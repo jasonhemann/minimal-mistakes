@@ -6,6 +6,7 @@ excerpt: "Change log of enhancements and bug fixes made to the theme."
 sidebar:
   nav: docs
 last_modified_at: 2022-05-27T11:41:03-04:00
+last_modified_at: 2022-01-05T10:32:04-05:00
 toc: false
 ---
 
