@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jason Hemann"
 description              : "An amazing website."
-url                      : "http://jasonhemann.github.com/" # "http://pages.github.ccs.neu.edu"
+url                      : "http://jasonhemann.github.com/"
 baseurl                  : "" # "/jhemann/test-site"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -107,11 +107,11 @@ author:
   name             : "Jason Hemann"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : >-
-    I am a Computer Science Professor at Northeastern University. 
-  location         : "Boston"
+    I am a Computer Science Professor at Seton Hall University.
+  location         : "South Orange, NJ"
   twitter          : "jhemann"
-  email            : "mailto:jhemann@northeastern.edu"
-  bitbucket        : "jhemann"
+  email            : "mailto:hemannja@shu.edu"
+  bitbucket        : "jhemann-shu"
   github           : "jasonhemann"
   links:
     - label: "StackOverflow"
@@ -122,44 +122,32 @@ author:
       url: "https://scholar.google.com/citations?user=SePR8OkAAAAJ"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:hemannja@shu.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      # url: "https://jasonhemann.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      # url: "https://twitter.com/jhemann"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      # url: "https://github.com/jasonhemann/"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+      # url: "https://twitter.com/jhemann"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      # url: "https://github.com/jasonhemann/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url:
+      # url: "https://github.com/jasonhemann/"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      # url: https://bitbucket.org/jhemann-shu/
 
       
 
