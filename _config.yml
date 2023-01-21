@@ -20,6 +20,7 @@ title                    : # ""
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jason Hemann"
+<<<<<<< HEAD
 description              : # ""
 url                      : "http://jasonhemann.github.com/"
 baseurl                  : "" # "/jhemann/test-site"
@@ -27,6 +28,15 @@ repository               : # "jasonhemann/XXX"
 teaser                   : "/assets/images/500x300.png"
 logo                     : "" # "/assets/images/88x88.png"
 masthead_title           : " "
+=======
+description              : "An amazing website."
+url                      : "http://jasonhemann.github.com/" # "http://pages.github.ccs.neu.edu"
+baseurl                  : "" # "/jhemann/test-site"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+>>>>>>> ebb27562 (completing merge)
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
