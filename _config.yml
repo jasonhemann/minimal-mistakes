@@ -90,9 +90,9 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+  - "https://twitter.com/jhemann"
+  - "https://stackexchange.com/users/5478012/"
 
 # Analytics
 analytics:
@@ -180,6 +180,7 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - "**/.#*"  # ignore open files
 keep_files:
   - .git
   - .svn
@@ -215,9 +216,9 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+# timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -266,6 +267,25 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+collections:
+  enrichment:
+    output: true
+    permalink: /:collection/:path/
+  FAQ:
+    output: true
+    permalink: /:collection/:path/
+  lec:
+    output: true
+    permalink: /:collection/:path/
+  people:
+    output: true
+    permalink: /:collection/:path/
+  labs:
+    output: true
+    permalink: /:collection/:path/
+  hw:
+    output: true
+    permalink: /:collection/:path/
 
 # HTML Compression
 # - https://jch.penibelst.de/
@@ -275,16 +295,35 @@ compress_html:
     envs: development
 
 
-# Defaults
 defaults:
-  # _posts
   - scope:
       path: ""
-      type: posts
+    values:
+      author_profile: false
+      toc: false
+      toc_icon: "cog"
+      sidebar:
+        title: "Site Map"
+        nav: sidebar-site-map
+      read_time: false
+      comments: false
+      share: false
+      related: false
+  # _hw
+  - scope:
+      path: ""
+      type: hw
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
+  # _FAQ
+  - scope:
+      path: ""
+      type: FAQ
+    values:
+      layout: single
+  # _lec
+  - scope:
+      path: ""
+      type: lec
+    values:
+      layout: single
