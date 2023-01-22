@@ -103,7 +103,7 @@ lecture is of the utmost importance. *You should make every effort to
 attend each lecture, and take vigorous notes.* We will often provide
 directly the answers to homework problems in lecture, and this course
 is significantly more difficult for the student who misses one or more
-lectures. There are no substitutes for participating in in-class
+lectures. There are no substitutes for participating in class
 activities. We will sometimes distribute electronic transcripts of the
 in-class code, but this is no substitute for careful notes and
 understanding its development. Regular class attendance is a student's
@@ -148,24 +148,24 @@ will hold these office hours remotely.
 
 ## Plagiarism & Cheating
 
-Cheating refers to copying or submitting as your own, with or without
-consent, someone else’s work as your own. Misrepresentation of someone
-else’s work as one’s own is a grave violation of academic ethics. This
-includes copying from someone else answers to questions during an
-examination as well as copying programs from internet sources.
-Plagiarism refers to using someone else’s work in your own and not
-properly crediting the authors of that work. This includes adapting
-someone else’s code to solve a problem or write a program. There will
-be no tolerance for cheating and plagiarism in this course. Any
-material that is not entirely your own work needs to be properly
-indicated and cited. This includes any work produced together with
-fellow students. You MUST indicate any sources of help outside of the
-course text(s) and your own work, including the names of students with
-whom you worked, internet resources or other sources of help. Failure
-to do so constitutes a violation of academic integrity. When in doubt,
-ask your instructor. Violations of academic integrity will lead to a
-score of zero on the offending assignment and likely an immediately
-failing grade for the course.
+In this context, cheating refers to copying or submitting as your own,
+with or without consent, someone else’s work as your own.
+Misrepresentation of someone else’s work as one’s own is a grave
+violation of academic ethics. This includes copying from someone else
+answers to questions during an examination as well as copying programs
+from internet sources. Plagiarism refers to using someone else’s work
+in your own and not properly crediting the authors of that work. This
+includes adapting someone else’s code to solve a problem or write a
+program. There will be no tolerance for cheating and plagiarism in
+this course. Any material that is not entirely your own work needs to
+be properly indicated and cited. This includes any work produced
+together with fellow students. You MUST indicate any sources of help
+outside of the course text(s) and your own work, including the names
+of students with whom you worked, internet resources or other sources
+of help. Failure to do so constitutes a violation of academic
+integrity. When in doubt, ask your instructor. Violations of academic
+integrity will lead to a score of zero on the offending assignment and
+likely an immediately failing grade for the course.
 
 ## Academic Accommodations
 
