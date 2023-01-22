@@ -9,5 +9,5 @@ classes: wide
 |       |      |     |        |       |             |                 |        |        |
 
 
-<img src="https://imgs.xkcd.com/comics/x.png">
+<!-- <img src="https://imgs.xkcd.com/comics/x.png"> -->
 
