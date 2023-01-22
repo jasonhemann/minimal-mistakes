@@ -14,7 +14,7 @@ in our class.
 
 I constructed our course homepage as a Jekyll site built with Github
 Pages. Student corrections and improvements are *incredibly* welcome!
-You should submit [pull requests]({{ site.repository }}) for
+You should submit [pull requests]({{ site.sourceurl }}{{ site.repository }}) for
 corrections and improvements. Every page on this website has a direct
 links to its `.md` file in this repository.
 
