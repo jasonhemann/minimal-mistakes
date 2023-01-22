@@ -2,7 +2,7 @@
 title: Technology and Platforms
 layout: single
 toc: true
-toc_label: "Developer and Pedagogical Tech"
+toc_label: "Tech"
 tags: syllabus grades policies 
 ---
 
@@ -13,10 +13,10 @@ in our class.
 ## Course Homepage
 
 I constructed our course homepage as a Jekyll site built with Github
-Pages. Student corrections and improvements are *incredibly* welcome!
-You should submit [pull requests]({{ site.sourceurl }}{{ site.repository }}) for
-corrections and improvements. Every page on this website has a direct
-links to its `.md` file in this repository.
+Pages. You should directly submit corrections and improvements as
+[pull requests]({{ site.sourceurl }}{{ site.repository }}). Every page
+on this website has a direct links to its `.md` file in this
+repository.
 
 If you are unfamiliar with making pull requests, you can find plenty of documentation both from your terminal
 and [on the

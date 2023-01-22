@@ -30,7 +30,7 @@ notice, or by changes to this syllabus posted on the course website.
 
 The best way to get in contact for personal, private (FERPA, etc)
 messages is via my email address
-[hemannja@shu.edu](mailto:hemannja@shu.edu). You should expect a
+[{{ site.author.emailaddr }}]({{ site.author.email }}). You should expect a
 response within 48 hours. You will find that I am faster with
 [Piazza](piazza) or our public forums. If I deem it even potentially
 useful to others, I will likely anonymize your letter, re-post it on
@@ -167,7 +167,7 @@ ask your instructor. Violations of academic integrity will lead to a
 score of zero on the offending assignment and likely an immediately
 failing grade for the course.
 
-## DSS
+## Academic Accommodations
 
 It is the policy and practice of Seton Hall University to promote
 inclusive learning environments. If you have a documented disability
@@ -185,23 +185,21 @@ their [webpage](https://www.shu.edu/disability-support-services/index.cfm).
 ## Equity and Compliance
 
 One of our responsibilities in supporting student learning 360° is to
-help create a safe learning environment both in person and
-virtually. You should carefully consult the university's [relevant
-policies](https://www.northeastern.edu/ouec/title-ix-policy-2/), and
-if you have or experience any violations of the above I encourage you
-to take full advantage of the [university
-resources](https://www.northeastern.edu/ouec/resources/main-campus-resources/).
+help create a safe learning environment both in person and virtually.
+You should carefully consult the university's [relevant information
+and policies](https://www.shu.edu/title-ix/index.cfm), and if you have
+or experience any violations of the above I encourage you to take full
+advantage of the university resources.
 
 It is also important that you know that federal regulations and
 University policy require me to promptly convey any information about
-certain kinds of misconduct known to me to our Deputy Title IX
-Coordinator or IU’s Title IX Coordinator. In that event, they will
-work with a small number of others on campus to ensure that
-appropriate measures are taken and resources are made available to the
-student who may have been harmed. Protecting a student’s privacy is of
-utmost concern, and all involved will only share information with
-those that need to know to ensure the University can respond and
-assist.
+certain kinds of misconduct known to me to our Title IX Coordinator.
+In that event, they will work with a small number of others on campus
+to ensure that appropriate measures are taken and resources are made
+available to the student who may have been harmed. Protecting a
+student’s privacy is of utmost concern, and all involved will only
+share information with those that need to know to ensure the
+University can respond and assist.
 
 ## Technology and Platforms
 
