@@ -2,6 +2,8 @@
 
 ## Based on [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
+In the future it might be better to build sites from [mm-github-starter](https://github.com/mmistakes/mm-github-pages-starter)
+
 Since it's derivative:
 
 Only to be reused under the agreements laid out and stipulated by the
