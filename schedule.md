@@ -8,6 +8,6 @@ classes: wide
 |       |      |     |        |       |             |                 |        |        |
 |       |      |     |        |       |             |                 |        |        |
 
-
+<!-- Find an appropriate XKCD comic -->
 <!-- <img src="https://imgs.xkcd.com/comics/x.png"> -->
 
