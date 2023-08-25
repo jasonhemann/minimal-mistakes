@@ -27,7 +27,6 @@ gem "minimal-mistakes-jekyll"
 group :jekyll_plugins do
 end
 
-
 gem "webrick", "~> 1.7"
-
+gem 'jekyll-sass-converter', '~> 2.2'
 gem "jekyll-redirect-from", "~> 0.16.0"
