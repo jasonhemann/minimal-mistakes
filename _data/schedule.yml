@@ -1,5 +1,5 @@
-first_week_of_year_offset: 3 # 0 if Jan 1 is a Monday, 2 if Jan 1 is a Tuesday, etc.
-semester_start: "2026-01-10T00:00:00-04:00" # Date of Sunday before start of semester, America:New York
+first_week_of_year_offset: 2
+semester_start: "2026-01-11T00:00:00-04:00" # Date of Sunday before start of semester, America:New York
 semester_start_week: 3 # https://www.epochconverter.com/weeks/202X
 # https://www.timeanddate.com/time/change/usa
 dst_start_week: 10 # Week no. of Sunday where early AM DST happens
