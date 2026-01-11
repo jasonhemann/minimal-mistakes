@@ -1,34 +1,24 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
-# Theme Settings
-#
-# Review documentation to determine if you should use `theme` or `remote_theme`
-# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
-
-# theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
-# Site Settings
-locale                   : "en-US"
-rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : # ""
-title_separator          : "-"
+# === CHANGE THESE PER COURSE ===
+title                    : "Course Website Template"
+title_separator          : # "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jason Hemann"
 description              : # ""
-url                      : "http://jasonhemann.github.com/"
-baseurl                  : "" # "/jhemann/test-site"
+baseurl                  : "/course-site-template"
+repository               : "/jasonhemann/course-site-template"
+masthead_title           : "Semester YYYY CourseName"
+# === END CHANGE THESE ===
+
+# Site Settings
+remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+locale                   : "en-US"
+rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
+url                      : "http://jasonhemann.github.io/"
 sourceurl                : "http://github.com/jasonhemann"
-repository               : "" # "/minimal-mistakes"
+github                   : [metadata]
 teaser                   : "/assets/images/500x300.png"
 logo                     : "" # "/assets/images/88x88.png"
-masthead_title           : " "
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
