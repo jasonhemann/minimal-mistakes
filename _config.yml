@@ -5,7 +5,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Jason Hemann"
 description              : # ""
 baseurl                  : "/course-site-template"
-repository               : "/jasonhemann/course-site-template"
+repository               : "jasonhemann/course-site-template"
 masthead_title           : "Semester YYYY CourseName"
 # === END CHANGE THESE ===
 
@@ -111,6 +111,8 @@ author:
   location         : "South Orange, NJ"
   twitter          : "jhemann"
   emailaddr        : "hemannja@shu.edu"
+  office_hours_location: McQuaid 210
+  office_hours     : 8am-930am Tues, or by appt.
   email            : "mailto:hemannja@shu.edu"
   bitbucket        : "jhemann-shu"
   github           : "jasonhemann"
@@ -217,7 +219,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-# timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York
 
 
 # Pagination with jekyll-paginate
@@ -252,6 +254,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-remote-theme
   - jekyll-include-cache
   - jekyll-redirect-from
 
@@ -261,6 +264,7 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-remote-theme
   - jekyll-include-cache
   - jekyll-redirect-from
 

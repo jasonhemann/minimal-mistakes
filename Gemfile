@@ -1,6 +1,8 @@
 source "https://rubygems.org"
 
 group :jekyll_plugins do
+  gem "webrick", "~> 1.7"
+  gem "bigdecimal", "~> 3.1"
 end
 
 gem "github-pages", "~> 232", group: :jekyll_plugins
