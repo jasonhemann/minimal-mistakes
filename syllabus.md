@@ -149,13 +149,13 @@ will hold these office hours remotely.
 ## Plagiarism & Cheating
 
 In this context, cheating refers to copying or submitting as your own,
-with or without consent, someone else’s work as your own.
-Misrepresentation of someone else’s work as one’s own is a grave
+with or without consent, someone else's work as your own.
+Misrepresentation of someone else's work as one's own is a grave
 violation of academic ethics. This includes copying from someone else
 answers to questions during an examination as well as copying programs
-from internet sources. Plagiarism refers to using someone else’s work
+from internet sources. Plagiarism refers to using someone else's work
 in your own and not properly crediting the authors of that work. This
-includes adapting someone else’s code to solve a problem or write a
+includes adapting someone else's code to solve a problem or write a
 program. There will be no tolerance for cheating and plagiarism in
 this course. Any material that is not entirely your own work needs to
 be properly indicated and cited. This includes any work produced
@@ -197,7 +197,7 @@ certain kinds of misconduct known to me to our Title IX Coordinator.
 In that event, they will work with a small number of others on campus
 to ensure that appropriate measures are taken and resources are made
 available to the student who may have been harmed. Protecting a
-student’s privacy is of utmost concern, and all involved will only
+student's privacy is of utmost concern, and all involved will only
 share information with those that need to know to ensure the
 University can respond and assist.
 
